@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Russian-Greek Dictionary</string>
+    <string name="title">ОФФЛАЙН ПЕРЕВОДЧИК</string>
+    <string name="translate_switch">Русско-Греческий</string>
+    <string name="input_hint">Введите техт для перевода</string>
+    <string name="button_text">Перевести</string>
+    <string name="output_hint">Перевод введённого текста</string>
+    <string name="switch_ru_gr_mode">Русско-Греческий</string>
+    <string name="switch_gr_ru_mode">Греческо-Русский</string>
+    <string name="hint_has_no_translation">Такого слова в словаре не нашлось =(</string>
+
+</resources>
